@@ -1,3 +1,5 @@
+![My Image](data-1680x600.jpg)
+
 ### Hi there 👋
 
 <!--
