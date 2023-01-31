@@ -4,13 +4,11 @@
   <a href="https://www.linkedin.com/in/roman-resner-b93a64a6">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.kaggle.com/romanresner">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
   </a>
 </div>
 
-
-https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
 
 ### Hi there 👋
 
