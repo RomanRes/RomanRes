@@ -1,4 +1,4 @@
-![My Image](data-1680x400.jpg)
+![My Image](data-1680x300.jpg)
 
 ### Hi there 👋
 
